@@ -1,0 +1,6 @@
+openai~=1.13.3
+pandas~=2.2.1
+jsonlines~=4.0.0
+filetype~=1.2.0
+tqdm~=4.66.2
+setuptools~=68.2.2
